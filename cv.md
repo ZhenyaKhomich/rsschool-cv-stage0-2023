@@ -5,19 +5,22 @@
 
 |Contacts|Personal qualities|Skills|
 |--------|----|----|
-|Github: ZhenyaKhomich |Sociability|  GitHub|       
-|Discord: Zhenya Khomich|Skill to work in team|HTML|
-|Telegram: @Zhenyatsoy2106|Purposefulness|CSS|
+|Github: _ZhenyaKhomich_ |Sociability|  GitHub|       
+|Discord: _Zhenya Khomich_|Skill to work in team|HTML|
+|Telegram: _@Zhenyatsoy2106_|Purposefulness|CSS|
          
- About Me
+ **About Me**
 
   I am 31 years old. I am new to the IT world. I set myself the goal of taking this course, gaining experience and becoming a good specialist.
 
-  Education
+  **Education**
 
-  Higher
+  - Higher
 
-  
+  **Language**
+
+  - English<br>
+  - Russian
 
 
 
