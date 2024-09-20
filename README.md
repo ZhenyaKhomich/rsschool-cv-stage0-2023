@@ -1,3 +1,5 @@
-https://ZhenyaKhomich.github.io/rsschool-cv/cv
+https://ZhenyaKhomich.github.io/rsschool-cv-stage0-2023
+/cv
 
-https://ZhenyaKhomich.github.io/rsschool-cv/
+https://ZhenyaKhomich.github.io/rsschool-cv-stage0-2023
+/
